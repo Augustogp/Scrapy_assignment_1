@@ -19,3 +19,5 @@ c) Link to the project deployed in Scrapy Cloud in Zyte Dashboard
 
 Link to the project:
 https://app.zyte.com/p/582905/jobs
+
+Spider name: book_spider
